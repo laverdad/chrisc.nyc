@@ -326,6 +326,11 @@ section { padding: 4.5rem 0 1rem; }
 }
 .contact-links a:hover { border-color: var(--accent); }
 
+/* ---------- Colophon ---------- */
+.colophon { padding-bottom: 2rem; }
+.colophon .prose p { font-size: 0.95rem; color: var(--muted); }
+.colophon .section-head h2 { font-size: 1.25rem; }
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 1px solid var(--border);
